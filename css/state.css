@@ -1,0 +1,50 @@
+.statement {
+	margin-top: 130px;
+	font-size:large;
+	color:#535D49;
+	text-indent: 30px;
+}
+
+.redTalk {
+	color: #8F2618;
+}
+
+.biaoti {
+	text-align: center;
+}
+
+.zhiyidian {
+	list-style:inside;
+	list-style-type:decimal;
+}
+.statementTitle {
+	text-align: center;
+}
+.statement a{
+	color: #fa994b;
+	text-decoration: none;
+}
+
+body {
+	opacity: 0;
+}
+.sheanren {
+	list-style:inside;
+	list-style-type:none;
+}
+
+b {
+	font-size:large;
+	color: red;
+}
+b.theirName {
+	color: blue;
+}
+span.pyName {
+	color: #535D49;
+}
+b.shenGang {
+	color: black;
+	font-size:large;
+	font:bold;
+}
